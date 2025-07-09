@@ -15,14 +15,14 @@ jobs:
       with:
         fetch-depth: 0 # A non-shallow repository clone is required
 
-    # - name: Run PackSquash
-    #   uses: ComunidadAylas/PackSquash-action@v4
-    #   with:
-    #     packsquash_version: latest # Uses the latest PackSquash release supported by the action
-    #     options: |
-    #       pack_directory = '.'
+    - name: Run PackSquash
+      uses: ComunidadAylas/PackSquash-action@v4
+      with:
+        packsquash_version: latest # Uses the latest PackSquash release supported by the action
+        options: |
+          pack_directory = '.'
           
-    #       shader_source_transformation_strategy = 'keep_as_is'
+          shader_source_transformation_strategy = 'keep_as_is'
         
     - name: Retrieve the current time of Amsterdam
       shell: bash
