@@ -25,7 +25,6 @@ jobs:
         options: |
             pack_directory = '.'
             output_file_path = '/tmp/RP.zip'
-            force_include = true
             allow_mods = ['OptiFine']
             
     - name: Generate version number
