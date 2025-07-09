@@ -1,0 +1,6 @@
+{
+    "parent": "./raket_legend_green.json",
+	"textures": {
+		"2": "./raket_legend_camodark"
+    }
+}

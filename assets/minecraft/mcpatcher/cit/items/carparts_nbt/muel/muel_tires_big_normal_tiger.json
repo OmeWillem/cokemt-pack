@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_tires_big_normal",
+	"textures": {
+						"voxels_atlas": "./muel_tires_big_normal_tiger"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./helicopter_window_gray",
+	"textures": {
+		"4": "./helicopter_window_whitepurple"
+    }
+}

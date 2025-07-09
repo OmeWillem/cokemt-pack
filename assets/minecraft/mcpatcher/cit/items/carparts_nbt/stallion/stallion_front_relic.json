@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_front_gray",
+	"textures": {
+						"voxels_atlas": "./stallion_front_relic"
+    }
+}

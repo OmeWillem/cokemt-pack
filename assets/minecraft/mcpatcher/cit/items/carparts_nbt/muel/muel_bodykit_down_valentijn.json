@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_bodykit_down_gray.json",
+	"textures": {
+		"voxels_atlas": "./muel_bodykit_down_valentijn"
+	}
+}

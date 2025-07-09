@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_sidekit_gray",
+	"textures": {
+						"4": "./muel_sidekit_coal"
+    }
+}

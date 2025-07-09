@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_tires_hotrod",
+	"textures": {
+						"5": "./muel_tires_hotrodorange"
+    }
+}

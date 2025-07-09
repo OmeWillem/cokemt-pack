@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_tires_normal.json",
+	"textures": {
+		"voxels_atlas": "./bucket_tires_ek2021"
+	}
+}

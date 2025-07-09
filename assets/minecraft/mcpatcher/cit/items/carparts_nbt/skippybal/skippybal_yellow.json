@@ -1,0 +1,6 @@
+{
+    "parent": "./skippybal_red.json",
+	"textures": {
+		"1": "./skippybal_yellow"
+	}
+}

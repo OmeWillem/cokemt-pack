@@ -1,0 +1,6 @@
+{
+    "parent": "./cruiser_gray",
+	"textures": {
+						"voxels_atlas": "./cruiser_pinkpurple"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_roof_gray",
+	"textures": {
+						"voxels_atlas": "./mirage_roof_midnight_shinydiamond"
+    }
+}

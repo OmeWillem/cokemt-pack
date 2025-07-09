@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_engine_orange",
+	"textures": {
+						"voxels_atlas": "./mirage_engine_orange_stripe"
+    }
+}

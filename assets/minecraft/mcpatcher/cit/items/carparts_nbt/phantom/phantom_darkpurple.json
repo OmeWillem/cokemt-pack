@@ -1,0 +1,6 @@
+{
+    "parent": "./phantom_gray",
+	"textures": {
+						"voxels_atlas": "./phantom_darkpurple"
+    }
+}

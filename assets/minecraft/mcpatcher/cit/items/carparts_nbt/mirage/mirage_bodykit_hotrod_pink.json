@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_bodykit_gold",
+	"textures": {
+						"voxels_atlas": "./mirage_bodykit_hotrod_pink"
+    }
+}

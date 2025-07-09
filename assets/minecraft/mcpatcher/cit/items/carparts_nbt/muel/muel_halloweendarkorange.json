@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_gray",
+	"textures": {
+						"voxels_atlas": "./muel_halloweendarkorange"
+    }
+}

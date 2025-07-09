@@ -1,0 +1,6 @@
+{
+    "parent": "./khamori_bodykit_gray",
+	"textures": {
+						"voxels_atlas": "./khamori_runner_bodykit_red"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_spoiler_gray",
+	"textures": {
+						"voxels_atlas": "./stallion_spoiler_midnight_shinyemerald"
+    }
+}

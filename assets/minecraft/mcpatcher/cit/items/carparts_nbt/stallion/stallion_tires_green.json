@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_tires_normal",
+	"textures": {
+						"voxels_atlas": "./stallion_tires_green"
+    }
+}

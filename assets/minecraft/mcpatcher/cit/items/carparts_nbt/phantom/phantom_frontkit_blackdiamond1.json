@@ -1,0 +1,6 @@
+{
+    "parent": "./phantom_frontkit_gray.json",
+	"textures": {
+		"1": "./phantom_frontkit_blackdiamond1"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./khamori_bodykit_gray",
+	"textures": {
+						"voxels_atlas": "./khamori_bodykit_midnight_tireblack"
+    }
+}

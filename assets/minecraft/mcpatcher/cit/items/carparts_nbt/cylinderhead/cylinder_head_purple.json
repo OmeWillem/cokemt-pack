@@ -1,0 +1,12 @@
+{
+    "parent": "./cylinder_head.json",
+	"textures": {
+		"0": "./iron_block_purple",
+		"1": "./light_gray_shulker_box",
+		"2": "./gold_block",
+		"3": "./silver_block",
+		"4": "./bronze_block",
+		"5": "./cylinder_holes",
+		"particle": "./iron_block_purple"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "./muel_sign_mtw.json",
+	"textures": {
+		"2": "./formula1",
+		"particle": "./formula1",
+		"texture": "./formula12",
+		"voxels_atlas": "./muel_sign_mtw",
+		"texture1": "./trans"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_turbo_engine_gray",
+	"textures": {
+						"5": "./bucket_turbo_engine_diamond"
+    }
+}

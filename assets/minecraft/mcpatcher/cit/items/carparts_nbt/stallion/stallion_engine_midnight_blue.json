@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_engine_gray",
+	"textures": {
+						"voxels_atlas": "./stallion_engine_midnight_blue"
+    }
+}

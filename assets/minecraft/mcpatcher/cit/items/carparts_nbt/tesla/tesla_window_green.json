@@ -1,0 +1,6 @@
+{
+    "parent": "./tesla_window",
+	"textures": {
+						"0": "./tesla_window_green"
+    }
+}

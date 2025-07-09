@@ -1,0 +1,6 @@
+{
+    "parent": "./phantom_spoiler_gray",
+	"textures": {
+						"voxels_atlas": "./phantom_spoiler_toxicred"
+    }
+}

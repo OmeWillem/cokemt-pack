@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_bigengine_hotrod_yellow",
+	"textures": {
+						"voxels_atlas": "./mirage_bigengine_hotrod_orange"
+    }
+}

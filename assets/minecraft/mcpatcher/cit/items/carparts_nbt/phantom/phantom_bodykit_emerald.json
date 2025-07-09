@@ -1,0 +1,6 @@
+{
+    "parent": "./phantom_bodykit_gray",
+	"textures": {
+						"voxels_atlas": "./phantom_bodykit_emerald"
+    }
+}

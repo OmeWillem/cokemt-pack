@@ -1,0 +1,6 @@
+{
+    "parent": "./phantom_tires_big_normal",
+	"textures": {
+						"voxels_atlas": "./phantom_tires_big_vaultecorange"
+    }
+}

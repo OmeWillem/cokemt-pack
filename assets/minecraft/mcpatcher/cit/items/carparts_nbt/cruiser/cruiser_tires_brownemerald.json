@@ -1,0 +1,6 @@
+{
+    "parent": "./cruiser_tires_normal",
+	"textures": {
+						"voxels_atlas": "./cruiser_tires_brownemerald"
+    }
+}

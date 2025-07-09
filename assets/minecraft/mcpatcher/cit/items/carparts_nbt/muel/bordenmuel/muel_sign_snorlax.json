@@ -1,0 +1,10 @@
+{
+	"parent": "./muel_sign_mtw.json",
+	"textures": {
+		"2": "./snorlax",
+		"particle": "./snorlax",
+		"texture": "./snorlax2",
+		"voxels_atlas": "./muel_sign_mtw",
+		"texture1": "./trans"
+	}
+}

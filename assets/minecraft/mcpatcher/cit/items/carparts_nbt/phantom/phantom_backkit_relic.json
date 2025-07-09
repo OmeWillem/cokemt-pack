@@ -1,0 +1,6 @@
+{
+    "parent": "./phantom_backkit_gray.json",
+	"textures": {
+		"0": "./phantom_backkit_relic"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_gray.json",
+	"textures": {
+		"voxels_atlas": "./muel_hotrod_flamegreen"
+	}
+}

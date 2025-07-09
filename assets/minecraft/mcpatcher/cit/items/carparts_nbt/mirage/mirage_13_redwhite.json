@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_gray",
+	"textures": {
+						"voxels_atlas": "./mirage_13_redwhite"
+    }
+}

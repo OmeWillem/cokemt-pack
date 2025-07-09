@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_sidekit_gray.json",
+	"textures": {
+		"4": "./muel_sidekit_flamegreen"
+	}
+}

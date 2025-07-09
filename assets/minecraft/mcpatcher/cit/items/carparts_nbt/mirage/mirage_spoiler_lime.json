@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_spoiler_gold",
+	"textures": {
+						"voxels_atlas": "./mirage_spoiler_lime"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_turbo_engine_gray",
+	"textures": {
+						"5": "./stallion_turbo_engine_shinydiamond"
+    }
+}

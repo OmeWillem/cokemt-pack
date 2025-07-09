@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_bumper_normal",
+	"textures": {
+		"voxels_atlas": "./stallion_bumper_dyorange"
+    }
+}

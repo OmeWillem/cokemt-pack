@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_exhaustpipe_normal",
+	"textures": {
+						"voxels_atlas": "./mirage_exhaustpipe_gold"
+    }
+}

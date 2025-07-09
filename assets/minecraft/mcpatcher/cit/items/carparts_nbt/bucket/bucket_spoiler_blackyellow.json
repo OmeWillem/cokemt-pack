@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_spoiler_gray",
+	"textures": {
+						"voxels_atlas": "./bucket_spoiler_blackyellow"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./phantom_spoiler_gray.json",
+	"textures": {
+		"voxels_atlas": "./phantom_spoiler_firepurple"
+	}
+}

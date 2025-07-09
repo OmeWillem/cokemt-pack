@@ -1,0 +1,6 @@
+{
+    "parent": "./waterscooter_steering_wheel_gray",
+	"textures": {
+						"voxels_atlas": "./waterscooter_steering_wheel_blue"
+    }
+}

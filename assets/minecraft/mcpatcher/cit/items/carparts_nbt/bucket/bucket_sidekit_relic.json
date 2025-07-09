@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_sidekit_gray",
+	"textures": {
+						"voxels_atlas": "./bucket_sidekit_relic"
+    }
+}

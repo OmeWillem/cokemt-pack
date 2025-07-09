@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_bodykit_gray",
+	"textures": {
+						"voxels_atlas": "./stallion_bodykit_rohimroze"
+    }
+}

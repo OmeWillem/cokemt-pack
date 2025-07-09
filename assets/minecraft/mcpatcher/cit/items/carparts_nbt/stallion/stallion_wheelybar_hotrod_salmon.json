@@ -1,0 +1,6 @@
+{
+    "parent": "./stallion_wheelybar_hotrod_joker",
+	"textures": {
+						"voxels_atlas": "./stallion_wheelybar_hotrod_salmon"
+    }
+}

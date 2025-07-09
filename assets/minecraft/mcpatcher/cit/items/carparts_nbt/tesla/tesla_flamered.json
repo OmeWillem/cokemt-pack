@@ -1,0 +1,6 @@
+{
+    "parent": "./tesla_gray.json",
+	"textures": {
+		"0": "./tesla_flamered"
+	}
+}

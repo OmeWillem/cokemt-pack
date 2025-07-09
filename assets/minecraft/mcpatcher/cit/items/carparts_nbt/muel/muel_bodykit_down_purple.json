@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_bodykit_down_gray",
+	"textures": {
+						"voxels_atlas": "./muel_bodykit_down_purple"
+    }
+}

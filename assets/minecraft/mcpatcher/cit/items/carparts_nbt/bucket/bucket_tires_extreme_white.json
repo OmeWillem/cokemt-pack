@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_tires_extreme_normal",
+	"textures": {
+						"voxels_atlas": "./bucket_tires_extreme_white"
+    }
+}

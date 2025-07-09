@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_roof_gray.json",
+	"textures": {
+		"voxels_atlas": "./mirage_roof_redline"
+	}
+}

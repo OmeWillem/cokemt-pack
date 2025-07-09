@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_carbonplate_normal",
+	"textures": {
+						"voxels_atlas": "./mirage_carbonplate_white"
+    }
+}

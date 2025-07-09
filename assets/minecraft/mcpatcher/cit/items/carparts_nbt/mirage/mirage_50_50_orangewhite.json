@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_gray.json",
+	"textures": {
+		"voxels_atlas": "./mirage_50_50_orangewhite"
+	}
+}

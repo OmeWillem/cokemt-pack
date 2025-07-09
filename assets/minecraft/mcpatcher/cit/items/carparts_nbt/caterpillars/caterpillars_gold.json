@@ -1,0 +1,6 @@
+{
+    "parent": "./caterpillars_normal",
+	"textures": {
+		"voxels_atlas": "./caterpillars_gold"
+    }
+}

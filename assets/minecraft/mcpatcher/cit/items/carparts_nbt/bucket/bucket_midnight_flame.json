@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_gray.json",
+	"textures": {
+		"voxels_atlas": "./bucket_midnight_flame"
+	}
+}

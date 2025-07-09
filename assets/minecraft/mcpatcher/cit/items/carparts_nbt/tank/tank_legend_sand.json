@@ -1,0 +1,7 @@
+{
+    "parent": "./tank_legend_green.json",
+	"textures": {
+		"1": "./tank_legend_sand",
+		"particle": "./tank_legend_sand"
+    }
+}

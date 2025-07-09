@@ -1,0 +1,6 @@
+{
+    "parent": "./cruiser_window_normal",
+	"textures": {
+						"voxels_atlas": "./cruiser_window_gold"
+    }
+}

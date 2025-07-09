@@ -1,0 +1,6 @@
+{
+    "parent": "./tesla_tires",
+	"textures": {
+		"voxels_atlas": "./tesla_tires_pink"
+    }
+}

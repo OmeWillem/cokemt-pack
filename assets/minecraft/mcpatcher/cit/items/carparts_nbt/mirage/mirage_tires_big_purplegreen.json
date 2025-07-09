@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_tires_big_normal",
+	"textures": {
+						"voxels_atlas": "./mirage_tires_big_purplegreen"
+    }
+}

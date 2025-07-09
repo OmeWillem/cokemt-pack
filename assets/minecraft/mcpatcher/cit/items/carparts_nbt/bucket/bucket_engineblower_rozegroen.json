@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_engineblower_gray.json",
+	"textures": {
+		"voxels_atlas": "./bucket_engineblower_rozegroen"
+	}
+}

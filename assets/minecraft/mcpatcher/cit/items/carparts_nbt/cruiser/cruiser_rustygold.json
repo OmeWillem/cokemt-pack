@@ -1,0 +1,6 @@
+{
+    "parent": "./cruiser_gray.json",
+	"textures": {
+		"voxels_atlas": "./cruiser_rustygold"
+	}
+}

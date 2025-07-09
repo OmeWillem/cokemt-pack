@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_turbo_gray",
+	"textures": {
+						"2": "./muel_turbo_redinv"
+    }
+}

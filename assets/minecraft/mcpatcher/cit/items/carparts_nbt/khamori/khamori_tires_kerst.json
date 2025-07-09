@@ -1,0 +1,6 @@
+{
+    "parent": "./khamori_tires_normal",
+	"textures": {
+						"voxels_atlas": "./khamori_tires_kerst"
+    }
+}

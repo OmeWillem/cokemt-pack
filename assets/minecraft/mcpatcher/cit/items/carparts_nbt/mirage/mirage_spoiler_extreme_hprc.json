@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_spoiler_extreme_gray",
+	"textures": {
+						"voxels_atlas": "./mirage_spoiler_extreme_hprc"
+    }
+}

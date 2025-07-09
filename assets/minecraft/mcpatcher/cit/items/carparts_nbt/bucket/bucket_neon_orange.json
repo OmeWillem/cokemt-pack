@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_neon_green.json",
+	"textures": {
+		"1": "./bucket_neon_orange"
+	}
+}

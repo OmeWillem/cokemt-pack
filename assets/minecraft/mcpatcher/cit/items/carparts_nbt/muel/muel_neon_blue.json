@@ -1,0 +1,6 @@
+{
+    "parent": "./muel_neon_green.json",
+	"textures": {
+		"1": "./muel_neon_blue"
+	}
+}

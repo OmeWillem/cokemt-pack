@@ -1,0 +1,6 @@
+{
+    "parent": "./tesla_gray",
+	"textures": {
+						"0": "./tesla_sportief_blackyellow"
+    }
+}

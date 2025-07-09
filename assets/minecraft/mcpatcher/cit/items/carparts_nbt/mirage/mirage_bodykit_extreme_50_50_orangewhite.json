@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_bodykit_extreme_gray.json",
+	"textures": {
+		"voxels_atlas": "./mirage_bodykit_extreme_50_50_orangewhite"
+	}
+}

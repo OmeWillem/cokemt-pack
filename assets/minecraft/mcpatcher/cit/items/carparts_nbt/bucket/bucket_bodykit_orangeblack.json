@@ -1,0 +1,6 @@
+{
+    "parent": "./bucket_bodykit_gray",
+	"textures": {
+						"voxels_atlas": "./bucket_bodykit_orangeblack"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./mirage_neon_green.json",
+	"textures": {
+		"1": "./mirage_neon_orange"
+	}
+}
