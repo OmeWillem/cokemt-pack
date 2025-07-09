@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main  # Adjust this branch name if needed
+      
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -42,6 +45,8 @@ jobs:
 
     - name: Tag and create release
       uses: softprops/action-gh-release@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
       with:
         tag_name: action-v${{ github.run_number }}
         files: /tmp/RP.zip
