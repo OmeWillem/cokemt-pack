@@ -16,39 +16,19 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        fetch-depth: 0 # A non-shallow repository clone is required
+        fetch-depth: 0 
 
     - name: Run PackSquash
       uses: ComunidadAylas/PackSquash-action@v4
       with:
-        packsquash_version: latest # Uses the latest PackSquash release supported by the action
+        packsquash_version: latest
         options: |
             pack_directory = '.'
             output_file_path = '/tmp/RP.zip'
             allow_mods = ['OptiFine']
-            never_store_squash_times = true
             
-    - name: Generate version number
-      id: version
-      run: |
-        # Calculate version number from GitHub run number
-        PATCH=$(echo ${{ github.run_number }} | awk '{printf "%d", $1%10}')
-        MINOR=$(echo ${{ github.run_number }} | awk '{printf "%d", ($1/10)%10}')
-        MAJOR=1
-        echo "::set-output name=VERSION::${MAJOR}.${MINOR}.${PATCH}"
-
-
-    # - name: Update pack.mcmeta
-    #   uses: jossef/action-set-json-field@v2.1
-    #   with:
-    #     file: pack.mcmeta
-    #     field: pack.description
-    #     value: "Minework | v${{ steps.version.outputs.VERSION }}\n${{ env.START_TIME }}"
-
     - name: Tag and create release
       uses: softprops/action-gh-release@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
       with:
         tag_name: action-v${{ github.run_number }}
         files: /tmp/RP.zip
