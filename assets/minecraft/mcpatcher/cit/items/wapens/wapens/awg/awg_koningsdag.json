@@ -1,7 +1,0 @@
-{
-	"parent": "./awg_normal.json",
-	"textures": {
-		"0": "./awg_koningsdag",
-		"particle": "./awg_koningsdag"
-	}
-}

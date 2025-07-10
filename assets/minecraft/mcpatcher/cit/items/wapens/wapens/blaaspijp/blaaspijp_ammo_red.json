@@ -1,8 +1,0 @@
-{
-    "parent": "./blaaspijp_ammo.json",
-    "textures": {
-		"0": "blocks/wool_colored_red",
-		"1": "blocks/anvil_base",
-		"particle": "blocks/wool_colored_red"
-    }
-}
