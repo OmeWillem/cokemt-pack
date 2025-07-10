@@ -1,6 +1,0 @@
-{
-    "parent": "./helicopter_body_gray",
-	"textures": {
-		"5": "./helicopter_body_ph_red"
-    }
-}
