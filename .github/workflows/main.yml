@@ -26,6 +26,7 @@ jobs:
             pack_directory = '.'
             output_file_path = '/tmp/RP.zip'
             allow_mods = ['OptiFine']
+            never_store_squash_times = 'true'
             
     - name: Generate version number
       id: version
