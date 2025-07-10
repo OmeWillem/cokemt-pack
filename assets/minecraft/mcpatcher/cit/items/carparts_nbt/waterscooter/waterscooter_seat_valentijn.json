@@ -1,6 +1,0 @@
-{
-    "parent": "./waterscooter_seat_gray.json",
-	"textures": {
-		"voxels_atlas": "./waterscooter_seat_valentijn"
-	}
-}

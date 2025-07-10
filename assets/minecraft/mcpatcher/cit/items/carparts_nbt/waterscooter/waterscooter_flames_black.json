@@ -1,6 +1,0 @@
-{
-    "parent": "./waterscooter_gray",
-	"textures": {
-						"voxels_atlas": "./waterscooter_flames_black"
-    }
-}
