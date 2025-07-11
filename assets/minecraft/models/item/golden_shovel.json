@@ -8,6 +8,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.03125 }, "model": "custom/titles/helpdesk" },
         { "predicate": { "damaged": 0, "damage": 0.0625 }, "model": "custom/titles/crates" },
         { "predicate": { "damaged": 0, "damage": 0.09375 }, "model": "custom/misc/statue" },
+		{ "predicate": { "damaged": 0, "damage": 0.125 }, "model": "custom/titles/uniq" },
         { "predicate": { "damaged": 1 }, "model": "item/golden_shovel" }
 	]
 }
