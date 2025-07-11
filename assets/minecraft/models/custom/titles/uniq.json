@@ -137,8 +137,8 @@
 	],
 	"display": {
 		"fixed": {
-			"translation": [0, 0, -21],
-			"scale": [4, 4, 4]
+			"translation": [16, 0, -21],
+			"scale": [4,4,4]
 		}
 	},
 	"groups": [
